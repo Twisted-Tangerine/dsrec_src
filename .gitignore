@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Logs & checkpoints
+logs/
+checkpoints/
+*.log
+
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.ds_src_Store
